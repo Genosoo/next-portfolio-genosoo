@@ -1,0 +1,25 @@
+.darkModeContainer{
+    width: 45px;
+    height: 24px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    position: relative;
+    cursor: pointer;
+    background-color: #383737;
+    border:1px solid #36D2D2;
+}
+
+.icon{
+    font-size: 12px;
+  }
+  
+  .toggleBall{
+    width: 18px;
+    height: 18px;
+    background-color: #36D2D2;
+    border-radius: 50%;
+    position: absolute;
+  }
